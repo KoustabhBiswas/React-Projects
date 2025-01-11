@@ -1,0 +1,4 @@
+<Directory ../src>
+     
+    Deny from all
+</Directory>
